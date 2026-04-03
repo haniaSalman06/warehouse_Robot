@@ -1,0 +1,5 @@
+outs:
+- md5: ab466477ccd742b03669ef003aa3bac2
+  size: 448
+  hash: md5
+  path: warehouse_grids.csv
